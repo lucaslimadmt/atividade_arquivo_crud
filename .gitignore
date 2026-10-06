@@ -1,0 +1,14 @@
+# Java
+*.class
+**/bin/
+**/out/
+
+# Dados gerados pela aplicação
+jogos.txt
+**/jogos.txt
+
+# IDEs e sistema operacional
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
